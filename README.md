@@ -9,5 +9,5 @@ to predict the upcoming trends. Machine learning and statistics can be used to p
 historical data of the company, the web app also show’s various decision making factors and
 fundamental indicators for providing multiple options to users for consideration while making
 a call. With the help of statistical analysis, the relation between the selected factors and share
-price is formulated for computing better results. Using facebook Prophet without any hyperparameter’s forecast for particular stocks are made. These result’s are evaluated by comparing
+price is formulated for computing better results. Using facebook Prophet without any hyperparameter’s forecast for particular stocks are made. These result’s are evaluated by comparing
 with other models like Last value and prophet with hyperparameter tuning.
